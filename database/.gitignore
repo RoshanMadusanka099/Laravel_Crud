@@ -1,0 +1,3 @@
+*.sqlite*
+compser.lock
+/node_modules
